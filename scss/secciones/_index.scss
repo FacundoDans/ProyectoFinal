@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+.main-main{
+    background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+
+.title{
+    color: white;
+    border: 3px solid #fff;
+    text-align: center;
+    margin-top: 3px;
+    
+    a{
+        color: white;
+        text-align: center;
+        text-decoration: none;
+    }
+}
+
+.imgmain{
+
+    max-width: 650px;
+    margin: 20px 200px;
+}
+
+.subtitle{
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-size: larger;
+
+}
+.noticia{
+    color: white;
+}
+.caja1{
+    background-color: rgb(41, 39, 39);
+    border: 3px solid white;
+    margin: 30px 0px 20px 150px;
+    padding: auto;
+    max-width: min-content;
+    display: grid;
+}
+
+.caja2{
+    background-color: rgb(41, 39, 39);
+    border: 3px solid white;
+    margin: 30px 20px 30px 236px;
+    padding: auto;
+    max-width:max-content;
+    align-items: center;
+    justify-content: space-around;
+    display: grid; 
+}
+
+.grid-container{
+background-color: rgb(41, 39, 39) ;
+display: block;
+margin: auto;
+margin-left: 20px;
+margin-bottom: 30px;
+padding: 15px;
+
+}
+.grid-container .title{
+    justify-content: center;
+    margin-top: 0;
+    margin-bottom: auto;
+    margin-left: 75px;
+    
+    .fa-circle-play{
+        margin-left: 10px;
+    }
+}
+
+
+.caja3{
+color: white;
+border-bottom: 2px solid white;
+margin: 20px 0px 0px 10px;
+
+
+}
+
+.caja4{
+color: white;
+border-bottom: 2px solid white;
+margin: 20px 0px 0px 0px;
+
+
+}
